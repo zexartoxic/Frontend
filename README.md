@@ -1,4 +1,0 @@
-Frontend
-========
-
-Curso de Frontend
